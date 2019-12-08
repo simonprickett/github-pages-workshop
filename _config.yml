@@ -6,3 +6,6 @@ collections:
   projects:
     output: true
 
+exclude:
+  - LICENSE
+  - README.md
