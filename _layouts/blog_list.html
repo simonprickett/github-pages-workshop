@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TODO blog list</title>
+    </head>
+    <body>
+        <h1>TODO blog list</h1>
+        <ul>
+            {% for post in site.posts %}
+            <li>{{post.title}}</li>
+            {% endfor %}
+        </ul>
+    </body>
+</html>

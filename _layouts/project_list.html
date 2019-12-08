@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TODO project list</title>
+    </head>
+    <body>
+        <h1>TODO project list</h1>
+        <ul>
+            {% for project in site.projects %}
+            <li>{{project.title}}</li>
+            {% endfor %}
+        </ul>
+    </body>
+</html>
