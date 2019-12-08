@@ -9,3 +9,4 @@ collections:
 exclude:
   - LICENSE
   - README.md
+  - html-templates
