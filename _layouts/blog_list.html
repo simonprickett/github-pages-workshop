@@ -7,7 +7,7 @@
         <h1>TODO blog list</h1>
         <ul>
             {% for post in site.posts %}
-            <li>{{post.title}}</li>
+            <li><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></li>
             {% endfor %}
         </ul>
     </body>
