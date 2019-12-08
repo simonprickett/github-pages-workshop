@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  This is a blog post
-subtitle: An example blog post for the workshop
-date:   2019-12-08 10:14:43 -0800
+subtitle: An example blog post for the workshop.
+date: 2019-12-08 10:14:43 -0800
 main_image: blog1.jpg
 categories: life tech social
 ---
