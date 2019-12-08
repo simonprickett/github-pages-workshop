@@ -2,6 +2,7 @@
 layout: project
 title:  Project 1
 subtitle: A fun project I enjoyed.
+main_image: project1.jpg
 ---
 Project 1 was a really good project that I put a lot of work into.
 
