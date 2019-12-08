@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  Project 3
+title: Project 3
 subtitle: A hardware project using a microcontroller.
 main_image: project3.jpg
 ---

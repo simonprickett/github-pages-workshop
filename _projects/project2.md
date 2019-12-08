@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  Project 2
+title: Project 2
 subtitle: A group project that was really challenging.
 main_image: project2.jpg
 ---

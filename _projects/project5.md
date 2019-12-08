@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  Project 5
+title: Project 5
 subtitle: Ongoing project to build an API in Node.js.
 main_image: project5.jpg
 ---

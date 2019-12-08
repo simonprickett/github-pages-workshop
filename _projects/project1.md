@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  Project 1
+title: Project 1
 subtitle: A fun project I enjoyed.
 main_image: project1.jpg
 ---

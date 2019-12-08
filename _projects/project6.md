@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  Project 6
+title: Project 6
 subtitle: Raspberry Pi Powered Weather Station
 main_image: project6.jpg
 ---

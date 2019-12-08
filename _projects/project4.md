@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  Project 4
+title: Project 4
 subtitle: Machine Learning with Erlang.
 main_image: project4.jpg
 ---
