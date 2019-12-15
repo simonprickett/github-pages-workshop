@@ -3,6 +3,7 @@ layout: project
 title: Project 6
 subtitle: Raspberry Pi Powered Weather Station
 main_image: project6.jpg
+categories: [raspberry pi, python, iot]
 ---
 Project 6 is a Raspberry Pi Powered Weather Station, coded in Python.
 

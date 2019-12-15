@@ -3,6 +3,7 @@ layout: project
 title: Project 4
 subtitle: Machine Learning with Erlang.
 main_image: project4.jpg
+categories: [erlang, machine learning, cloud]
 ---
 Project 4 is super hipster as I got to do some machine learning in Erlang.
 

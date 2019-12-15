@@ -3,6 +3,7 @@ layout: project
 title: Project 5
 subtitle: Ongoing project to build an API in Node.js.
 main_image: project5.jpg
+categories: [node.js, javascript, api]
 ---
 Project 5 is an ongoing API project using Node.js.
 
