@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogpost
 title: Another blog post
 subtitle: Blogging about all the things.
 date: 2019-12-01 12:15:10 -0800

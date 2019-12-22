@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogpost
 title:  This is a blog post
 subtitle: An example blog post for the workshop.
 date: 2019-12-08 10:14:43 -0800

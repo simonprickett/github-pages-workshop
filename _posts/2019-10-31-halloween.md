@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogpost
 title: Halloween 2019
 subtitle: I went all out with the costume this year!
 date: 2019-10-31 21:22:34 -0800

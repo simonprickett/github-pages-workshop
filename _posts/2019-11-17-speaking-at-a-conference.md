@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogpost
 title: I Spoke at a Tech Conference!
 subtitle: First time nerves on the big stage.
 date: 2019-11-30 20:45:23 -0800
