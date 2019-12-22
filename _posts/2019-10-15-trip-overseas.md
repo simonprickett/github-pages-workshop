@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: A Trip Overseas
-subtitle: I left the country for a while to see somewhere new.
+subtitle: I went overseas to see somewhere new.
 date: 2019-10-15 10:14:43 -0800
 main_image: blog6.jpg
 author: Me
