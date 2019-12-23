@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Project 3
-subtitle: A hardware project using a microcontroller.
+subtitle: A hardware & microcontroller project.
 main_image: project3.jpg
 categories: [arduino, c, iot]
 ---
