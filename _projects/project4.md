@@ -7,8 +7,23 @@ categories: [erlang, machine learning, cloud]
 ---
 Project 4 is super hipster as I got to do some machine learning in Erlang.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pellentesque ultricies venenatis. Donec eu feugiat lacus. Praesent sit amet consectetur magna. Aenean eget turpis est. Ut scelerisque, nisl eget faucibus pulvinar, dolor nisl porttitor erat, eget ultricies erat massa eget sem. Quisque malesuada nec lectus vel porttitor. Aliquam erat volutpat. Cras ut nunc vitae enim interdum tempus quis ac magna. Fusce ligula odio, luctus nec lorem eu, tincidunt tristique arcu. Mauris convallis, nisl sed euismod sodales, sapien nulla feugiat sem, eu finibus elit nisl et velit. Donec faucibus leo at lorem luctus, quis auctor orci molestie. Donec sed lorem elit. Ut mauris augue, maximus non libero sed, auctor sagittis urna. Curabitur sed pretium sapien, scelerisque bibendum sapien. Aliquam tincidunt, ipsum non convallis tristique, arcu nisi tincidunt leo, id convallis purus ipsum nec sem. Nulla semper gravida lorem luctus pulvinar.
+## What I coded in the local coffee shop!
 
-Fusce sit amet accumsan mi. Vestibulum hendrerit ex vulputate accumsan interdum. Vestibulum ultrices sem tempus ipsum maximus, eu fermentum tellus commodo. Praesent consectetur tortor non suscipit iaculis. Cras euismod, nisl nec sagittis imperdiet, mi orci vehicula sapien, sit amet varius erat erat fringilla libero. Phasellus eu lorem luctus, tempus velit non, mollis nulla. Aenean tortor sem, pulvinar sed dictum id, ultricies ac nunc. Nunc pulvinar mi sed massa mattis, in porttitor turpis interdum. Quisque convallis faucibus nulla, id molestie sem sollicitudin feugiat. Ut sit amet quam ac massa commodo vehicula.
+Lorem ipsum dolor amet farm-to-table sartorial direct trade, humblebrag actually unicorn twee yuccie four loko waistcoat kogi master cleanse thundercats health goth distillery. Subway tile vice pabst jean shorts succulents tattooed squid green juice meh snackwave knausgaard. Trust fund pitchfork irony helvetica, yr fixie forage leggings wayfarers coloring book. Hammock DIY enamel pin offal tbh subway tile kinfolk man braid. Swag whatever chambray portland, tousled pork belly roof party. Godard truffaut pour-over hell of polaroid. Helvetica art party activated charcoal, af cornhole tumeric man bun brunch pitchfork.
 
-Mauris congue posuere nibh dignissim viverra. Sed condimentum felis quis est semper eleifend. Phasellus ac tortor mollis, feugiat diam at, tempus arcu. Nullam pharetra porttitor magna, quis volutpat lorem consectetur id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce enim sapien, faucibus ut varius et, venenatis et enim. Suspendisse sodales nec enim ut consectetur. Nam nulla ipsum, varius eu purus ut, porttitor dictum arcu. Phasellus id consequat dolor.
+- Edison bulb you probably haven't heard of them mustache YOLO pabst.
+- Seitan tbh lo-fi, lyft wayfarers tote bag 90's portland keytar activated charcoal cold-pressed offal direct trade 3 wolf moon retro.
+- Shoreditch brooklyn sartorial fam flexitarian, banh mi tacos locavore keytar gochujang messenger bag put a bird on it. Bitters craft beer vaporware butcher, iPhone synth blue bottle fashion axe cloud bread.
+- Ugh pinterest cardigan echo park af waistcoat vice banjo.
+
+**Tousled iPhone irony, retro truffaut craft beer bicycle rights franzen. Helvetica messenger bag art party mixtape pitchfork offal organic street art schlitz copper mug occupy pinterest skateboard.** Ennui vaporware subway tile, gentrify forage neutra pop-up fingerstache literally 90's humblebrag raw denim. Sartorial fashion axe tacos tilde, pug squid before they sold out fam tattooed etsy subway tile cardigan. Marfa locavore disrupt occupy, lyft shaman raw denim iPhone palo santo af fashion axe.
+
+## These are the things we learned:
+
+1. Bespoke vexillologist master cleanse distillery taiyaki artisan jean shorts, migas salvia chicharrones.
+2. Kitsch 3 wolf moon etsy fingerstache salvia iceland.
+3. Hella banh mi shabby chic migas whatever vexillologist +1 quinoa.
+4. Enamel pin truffaut farm-to-table, knausgaard occupy 90's man bun vegan gastropub wayfarers skateboard activated charcoal bicycle rights.
+5. Jianbing wayfarers kitsch air plant glossier XOXO.
+
+Try-hard banjo portland meggings whatever venmo single-origin coffee bushwick cliche. Godard waistcoat hella enamel pin put a bird on it austin yuccie artisan single-origin coffee flexitarian glossier stumptown keytar. Listicle vexillologist mixtape quinoa polaroid offal. Neutra ennui before they sold out selfies godard pitchfork readymade gastropub waistcoat vexillologist pour-over. Post-ironic kitsch kinfolk 90's listicle waistcoat. Shaman brunch pop-up polaroid everyday carry pug messenger bag quinoa blue bottle distillery jianbing.
