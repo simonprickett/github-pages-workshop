@@ -40,12 +40,12 @@
 								<!-- Content -->
 									<section>
 										<header class="major">
-                                            <h2>TODO Blog Title</h2>
+                                            <h2>{{page.title}}</h2>
                                         </header>
 										<div class="row">
 											<div class="col-12">
-												<span class="image fit"><img src="https://via.placeholder.com/1600x1200" alt="Main Image" /></span>
-												<em>Dec 01 2019 in CATEGORY, CATEGORY, CATEGORY</em>
+												<span class="image fit"><img src="{{site.baseurl}}/assets/images/{{page.main_image}}" alt="Main Image" /></span>
+												<em>Dec 01 2019 in {{% for category in page.categories %}}{{category}} {{% endfor %}}</em>
 												<br/>
 												<br/>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer egestas lacus dui, at
