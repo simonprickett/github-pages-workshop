@@ -36,17 +36,16 @@
         <!-- Main -->
         <section id="main" class="wrapper">
             <div class="inner">
-                <h1 class="major">TODO Blog Title</h1>
+                <h1 class="major">{{post.title}}</h1>
 
                 <!-- Image -->
                 <section>
                     <div class="box alt">
                         <div class="row gtr-uniform">
-                            <div class="col-12"><span class="image fit"><img src="https://via.placeholder.com/1600x1200"
-                                        alt="Main Image" /></span>
+                            <div class="col-12"><span class="image fit"><img src="{{site.baseurl}}/assets/images/{{post.main_image}}" alt="Main Image" /></span>
                             </div>
                         </div>
-                        <em>Dec 01 2019 in CATEGORY, CATEGORY, CATEGORY</em>
+                        <em>Dec 01 2019 in {{% for category in post.categories %}}{{category}} {{% endfor %}}</em>
                         <br />
                         <br />
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer egestas lacus dui, at
