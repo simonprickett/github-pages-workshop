@@ -5,10 +5,33 @@ subtitle: A fun project I enjoyed.
 main_image: project1.jpg
 categories: [node.js, javascript, iot]
 ---
-Project 1 was a really good project that I put a lot of work into.
+Project 1 was a **really good project** that I put a **lot** of work into.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pellentesque ultricies venenatis. Donec eu feugiat lacus. Praesent sit amet consectetur magna. Aenean eget turpis est. Ut scelerisque, nisl eget faucibus pulvinar, dolor nisl porttitor erat, eget ultricies erat massa eget sem. Quisque malesuada nec lectus vel porttitor. Aliquam erat volutpat. Cras ut nunc vitae enim interdum tempus quis ac magna. Fusce ligula odio, luctus nec lorem eu, tincidunt tristique arcu. Mauris convallis, nisl sed euismod sodales, sapien nulla feugiat sem, eu finibus elit nisl et velit. Donec faucibus leo at lorem luctus, quis auctor orci molestie. Donec sed lorem elit. Ut mauris augue, maximus non libero sed, auctor sagittis urna. Curabitur sed pretium sapien, scelerisque bibendum sapien. Aliquam tincidunt, ipsum non convallis tristique, arcu nisi tincidunt leo, id convallis purus ipsum nec sem. Nulla semper gravida lorem luctus pulvinar.
+## Overview
 
-Fusce sit amet accumsan mi. Vestibulum hendrerit ex vulputate accumsan interdum. Vestibulum ultrices sem tempus ipsum maximus, eu fermentum tellus commodo. Praesent consectetur tortor non suscipit iaculis. Cras euismod, nisl nec sagittis imperdiet, mi orci vehicula sapien, sit amet varius erat erat fringilla libero. Phasellus eu lorem luctus, tempus velit non, mollis nulla. Aenean tortor sem, pulvinar sed dictum id, ultricies ac nunc. Nunc pulvinar mi sed massa mattis, in porttitor turpis interdum. Quisque convallis faucibus nulla, id molestie sem sollicitudin feugiat. Ut sit amet quam ac massa commodo vehicula.
+Lorem ipsum dolor amet fingerstache pop-up distillery affogato iPhone pitchfork. Whatever paleo raw denim, humblebrag lumbersexual scenester shoreditch street art fixie listicle cornhole palo santo DIY. Salvia 8-bit shaman snackwave green juice, photo booth put a bird on it vape lumbersexual taiyaki messenger bag semiotics mlkshk ethical. Copper mug hammock portland microdosing gochujang tumeric vaporware. Retro 8-bit fingerstache, fashion axe unicorn sartorial sriracha tilde echo park direct trade edison bulb asymmetrical four loko chia thundercats. Kitsch jianbing everyday carry normcore. Thundercats prism DIY truffaut.
 
-Mauris congue posuere nibh dignissim viverra. Sed condimentum felis quis est semper eleifend. Phasellus ac tortor mollis, feugiat diam at, tempus arcu. Nullam pharetra porttitor magna, quis volutpat lorem consectetur id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce enim sapien, faucibus ut varius et, venenatis et enim. Suspendisse sodales nec enim ut consectetur. Nam nulla ipsum, varius eu purus ut, porttitor dictum arcu. Phasellus id consequat dolor.
+## Learning Node.js
+
+Salvia lumbersexual prism, meditation woke narwhal roof party vinyl tbh craft beer. Tilde four loko synth asymmetrical helvetica, hella taxidermy banjo. Ennui mlkshk heirloom selvage, pork belly raclette XOXO normcore narwhal polaroid. Live-edge vexillologist prism schlitz umami air plant. Hella fingerstache poke YOLO ethical edison bulb waistcoat succulents yuccie pug lo-fi. Tattooed pop-up hella cornhole narwhal. Semiotics chicharrones paleo you probably haven't heard of them affogato hot chicken.
+
+**Things I learned:**
+
+* La croix letterpress chartreuse typewriter street art, brooklyn ugh. 
+* Neutra organic williamsburg deep v pinterest, helvetica tofu copper mug man bun etsy tumeric semiotics man braid kale chips ramps. 
+* Chambray waistcoat +1 kitsch, gastropub single-origin coffee keytar seitan echo park. 
+* Skateboard raw denim freegan cray. 
+* Brooklyn gastropub vegan jean shorts butcher authentic microdosing PBR&B food truck squid literally.
+
+## Unit Testing
+
+Williamsburg portland chia woke activated charcoal shoreditch irony austin meditation. Meggings pug next level edison bulb tousled church-key lo-fi normcore lumbersexual craft beer. Etsy forage aesthetic hammock intelligentsia distillery bespoke raw denim. Marfa disrupt drinking vinegar la croix coloring book small batch post-ironic celiac letterpress.
+
+
+## Key Takeaways from this Project
+
+1. Hot chicken organic helvetica meh. 
+2. Tattooed actually taxidermy tilde shaman occupy. 
+3. Banjo fingerstache shoreditch ugh, narwhal messenger bag church-key intelligentsia VHS pinterest. 
+
+Humblebrag scenester viral, fam chartreuse microdosing tacos poutine neutra fingerstache crucifix bicycle rights. Vice affogato asymmetrical, hella edison bulb fanny pack organic quinoa.

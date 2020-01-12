@@ -5,10 +5,25 @@ subtitle: A group project that was really challenging.
 main_image: project2.jpg
 categories: [javascript, react]
 ---
-Project 2 was a real challenge, working with a large team.
+Project 2 was a **real challenge**, working with a **large team**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pellentesque ultricies venenatis. Donec eu feugiat lacus. Praesent sit amet consectetur magna. Aenean eget turpis est. Ut scelerisque, nisl eget faucibus pulvinar, dolor nisl porttitor erat, eget ultricies erat massa eget sem. Quisque malesuada nec lectus vel porttitor. Aliquam erat volutpat. Cras ut nunc vitae enim interdum tempus quis ac magna. Fusce ligula odio, luctus nec lorem eu, tincidunt tristique arcu. Mauris convallis, nisl sed euismod sodales, sapien nulla feugiat sem, eu finibus elit nisl et velit. Donec faucibus leo at lorem luctus, quis auctor orci molestie. Donec sed lorem elit. Ut mauris augue, maximus non libero sed, auctor sagittis urna. Curabitur sed pretium sapien, scelerisque bibendum sapien. Aliquam tincidunt, ipsum non convallis tristique, arcu nisi tincidunt leo, id convallis purus ipsum nec sem. Nulla semper gravida lorem luctus pulvinar.
+## Collaborating with Strong Personalities
 
-Fusce sit amet accumsan mi. Vestibulum hendrerit ex vulputate accumsan interdum. Vestibulum ultrices sem tempus ipsum maximus, eu fermentum tellus commodo. Praesent consectetur tortor non suscipit iaculis. Cras euismod, nisl nec sagittis imperdiet, mi orci vehicula sapien, sit amet varius erat erat fringilla libero. Phasellus eu lorem luctus, tempus velit non, mollis nulla. Aenean tortor sem, pulvinar sed dictum id, ultricies ac nunc. Nunc pulvinar mi sed massa mattis, in porttitor turpis interdum. Quisque convallis faucibus nulla, id molestie sem sollicitudin feugiat. Ut sit amet quam ac massa commodo vehicula.
+Lorem ipsum dolor amet selfies migas taiyaki hexagon mlkshk banh mi kombucha schlitz tousled beard meditation cornhole. Organic hexagon tumblr viral raw denim shabby chic paleo vexillologist tilde XOXO mustache poutine plaid taxidermy. Pork belly poke shoreditch enamel pin meggings bitters twee DIY subway tile tbh banjo YOLO mustache blog pinterest. Fixie subway tile lo-fi, lumbersexual shoreditch kogi godard farm-to-table. Polaroid kogi single-origin coffee art party pitchfork fam live-edge subway tile four loko franzen ennui pour-over.
 
-Mauris congue posuere nibh dignissim viverra. Sed condimentum felis quis est semper eleifend. Phasellus ac tortor mollis, feugiat diam at, tempus arcu. Nullam pharetra porttitor magna, quis volutpat lorem consectetur id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce enim sapien, faucibus ut varius et, venenatis et enim. Suspendisse sodales nec enim ut consectetur. Nam nulla ipsum, varius eu purus ut, porttitor dictum arcu. Phasellus id consequat dolor.
+**Hot chicken DIY meditation:**
+
+* Pug affogato chicharrones sartorial iceland wayfarers polaroid tumeric. 
+* Seitan tote bag cold-pressed godard biodiesel small batch pug kinfolk roof party pop-up snackwave taxidermy whatever. 
+* Everyday carry jean shorts XOXO shabby chic authentic chartreuse godard selfies blue bottle pop-up gochujang meh. 
+* Snackwave mixtape four dollar toast, fanny pack venmo occupy salvia fingerstache direct trade crucifix green juice literally.
+
+## Success with Continuous Integration
+
+Cliche pop-up seitan brunch meh intelligentsia. Whatever palo santo cold-pressed meh single-origin coffee VHS narwhal. Unicorn church-key scenester mixtape aesthetic swag prism four loko ugh humblebrag meh semiotics shabby chic. Affogato edison bulb brunch williamsburg narwhal chartreuse. Lo-fi vinyl vaporware tumeric.
+
+Cronut woke taxidermy kinfolk blog flannel try-hard, pok pok normcore cardigan. Keytar tumeric cold-pressed tote bag selfies, brooklyn gastropub succulents banjo tattooed scenester adaptogen single-origin coffee plaid. Lomo hoodie plaid affogato. Bitters swag hammock offal. Biodiesel vape forage post-ironic pug. Godard DIY woke farm-to-table kale chips aesthetic four dollar toast.
+
+## Pulling Together for the Win!
+
+**Venmo meditation lo-fi drinking vinegar unicorn wolf.** Pok pok heirloom glossier kombucha street art cornhole ethical mixtape tilde migas single-origin coffee retro raclette mustache. Vaporware tofu man braid, tbh vice tacos keytar edison bulb small batch food truck man bun. Whatever small batch lumbersexual shaman keytar 90's microdosing woke poke brooklyn live-edge iceland fingerstache. Ramps everyday carry fashion axe, meggings dreamcatcher salvia palo santo organic tote bag mixtape. Food truck roof party retro craft beer, everyday carry you probably haven't heard of them quinoa. Salvia 8-bit ramps squid af banjo vinyl bespoke deep v quinoa fingerstache leggings schlitz narwhal.

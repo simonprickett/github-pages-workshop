@@ -7,8 +7,21 @@ categories: [arduino, c, iot]
 ---
 Project 3 saw me working with microcontrollers and a soldering iron!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pellentesque ultricies venenatis. Donec eu feugiat lacus. Praesent sit amet consectetur magna. Aenean eget turpis est. Ut scelerisque, nisl eget faucibus pulvinar, dolor nisl porttitor erat, eget ultricies erat massa eget sem. Quisque malesuada nec lectus vel porttitor. Aliquam erat volutpat. Cras ut nunc vitae enim interdum tempus quis ac magna. Fusce ligula odio, luctus nec lorem eu, tincidunt tristique arcu. Mauris convallis, nisl sed euismod sodales, sapien nulla feugiat sem, eu finibus elit nisl et velit. Donec faucibus leo at lorem luctus, quis auctor orci molestie. Donec sed lorem elit. Ut mauris augue, maximus non libero sed, auctor sagittis urna. Curabitur sed pretium sapien, scelerisque bibendum sapien. Aliquam tincidunt, ipsum non convallis tristique, arcu nisi tincidunt leo, id convallis purus ipsum nec sem. Nulla semper gravida lorem luctus pulvinar.
+Lorem ipsum dolor amet cray intelligentsia flannel vinyl migas, poke put a bird on it kinfolk. Fanny pack mumblecore man braid, hexagon pitchfork coloring book offal lo-fi taxidermy af godard jianbing pour-over williamsburg. Kinfolk offal snackwave pabst. Beard craft beer selvage celiac. Four loko post-ironic chambray etsy man bun. Man braid ethical VHS distillery marfa irony you probably haven't heard of them.
 
-Fusce sit amet accumsan mi. Vestibulum hendrerit ex vulputate accumsan interdum. Vestibulum ultrices sem tempus ipsum maximus, eu fermentum tellus commodo. Praesent consectetur tortor non suscipit iaculis. Cras euismod, nisl nec sagittis imperdiet, mi orci vehicula sapien, sit amet varius erat erat fringilla libero. Phasellus eu lorem luctus, tempus velit non, mollis nulla. Aenean tortor sem, pulvinar sed dictum id, ultricies ac nunc. Nunc pulvinar mi sed massa mattis, in porttitor turpis interdum. Quisque convallis faucibus nulla, id molestie sem sollicitudin feugiat. Ut sit amet quam ac massa commodo vehicula.
+## Hard Coding Hardware!
 
-Mauris congue posuere nibh dignissim viverra. Sed condimentum felis quis est semper eleifend. Phasellus ac tortor mollis, feugiat diam at, tempus arcu. Nullam pharetra porttitor magna, quis volutpat lorem consectetur id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce enim sapien, faucibus ut varius et, venenatis et enim. Suspendisse sodales nec enim ut consectetur. Nam nulla ipsum, varius eu purus ut, porttitor dictum arcu. Phasellus id consequat dolor.
+Mustache adaptogen 90's, cronut farm-to-table yr palo santo drinking vinegar letterpress glossier thundercats coloring book. 
+
+1. Photo booth flexitarian distillery, hot chicken polaroid mumblecore 3 wolf moon af trust fund. 
+2. Godard tote bag plaid flannel williamsburg iceland. Woke street art small batch subway tile. 
+3. Snackwave jianbing man braid tattooed, fanny pack bitters locavore succulents af blue bottle seitan. 
+4. Try-hard glossier neutra four loko pok pok.
+
+Vinyl XOXO prism chartreuse, salvia paleo shabby chic artisan single-origin coffee heirloom. Tattooed subway tile retro, vexillologist meditation brooklyn vegan next level. Forage fashion axe pitchfork raw denim master cleanse swag. Taxidermy echo park copper mug fixie pitchfork pop-up fashion axe. Meditation chartreuse asymmetrical irony photo booth.
+
+## Coding in C
+
+Thundercats semiotics *edison bulb* you probably haven't heard of them. Artisan subway tile irony, cronut woke aesthetic cornhole bitters four dollar toast migas 8-bit knausgaard williamsburg tofu disrupt. Roof party keytar vice, neutra church-key cardigan prism sustainable. Brunch post-ironic chambray, swag air plant PBR&B marfa meggings freegan poke biodiesel banjo tumblr VHS.
+
+Vegan cliche pickled shoreditch direct trade glossier viral prism occupy williamsburg affogato fam mustache DIY tbh. Venmo master cleanse mumblecore tote bag VHS literally, slow-carb pabst before they sold out lomo four loko etsy selfies cold-pressed trust fund. Swag readymade mlkshk umami cray tacos. Marfa vinyl swag flexitarian sriracha direct trade retro butcher small batch keytar man braid. Pour-over retro mumblecore schlitz unicorn.
