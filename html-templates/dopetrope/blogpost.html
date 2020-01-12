@@ -5,106 +5,76 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-	<head>
-		<title>TODO Site Name</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-	</head>
-	<body class="homepage is-preload">
-		<div id="page-wrapper">
 
-			<!-- Header -->
-				<section id="header">
+<head>
+	<!-- start head include -->
+	{% include head.html %}
+	<!-- end head include -->
+</head>
 
-					<!-- Logo -->
-						<h1><a href="homepage.html">TODO Site Name</a></h1>
+<body class="homepage is-preload">
+	<div id="page-wrapper">
 
-					<!-- Nav -->
-						<nav id="nav">
-							<ul>
-                                <li><a href="homepage.html">Home</a></li>
-                                <li class="current"><a href="blog.html">Blog</a></li>
-                                <li><a href="projects.html">Projects</a></li>
-                                <li><a href="about.html">About Me</a></li>
-							</ul>
-						</nav>
-                </section>
+		<!-- Header -->
+		<!-- start header include -->
+		{% include header.html %}
+		<!-- end header include -->
 
-			<!-- Main -->
-				<section id="main">
-					<div class="container">
-						<div class="row">
-							<div class="col-12">
+		<!-- Main -->
+		<section id="main">
+			<div class="container">
+				<div class="row">
+					<div class="col-12">
 
-								<!-- Content -->
-									<section>
-										<header class="major">
-                                            <h2>{{page.title}}</h2>
-                                        </header>
-										<div class="row">
-											<div class="col-12">
-												<span class="image fit"><img src="{{site.baseurl}}/assets/images/{{page.main_image}}" alt="Main Image" /></span>
-												<em>Dec 01 2019 in {{% for category in page.categories %}}{{category}} {{% endfor %}}</em>
-												<br/>
-												<br/>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer egestas lacus dui, at
-                                                        tristique nunc eleifend vitae. Vestibulum ante ipsum primis in faucibus orci luctus et
-                                                        ultrices posuere cubilia Curae; Suspendisse ut justo dignissim, cursus nunc eget, bibendum
-                                                        risus. In sapien enim, feugiat sed enim sit amet, pretium ornare erat. Vestibulum dapibus
-                                                        interdum mi sed dapibus. Sed venenatis egestas eros ut euismod. In ullamcorper a purus non
-                                                        congue. In pharetra ante sodales augue blandit finibus. Etiam quis elit mattis, cursus est
-                                                        eget, hendrerit diam. Nullam faucibus in risus quis aliquam. Morbi consectetur erat sit amet
-                                                        tortor efficitur, sit amet efficitur dolor aliquet. Duis condimentum nisl quis libero
-                                                        posuere, a aliquam nisi aliquet. Orci varius natoque penatibus et magnis dis parturient
-                                                        montes, nascetur ridiculus mus. Pellentesque viverra diam et massa malesuada finibus.
-                                                        Integer nulla elit, mattis vitae tempus ut, sollicitudin quis ante.</p>
-											</div>
-										</div>
-									</section>
-
+						<!-- Content -->
+						<section>
+							<header class="major">
+								<h2>{{page.title}}</h2>
+							</header>
+							<div class="row">
+								<div class="col-12">
+									<span class="image fit"><img
+											src="{{site.baseurl}}/assets/images/{{page.main_image}}"
+											alt="Main Image" /></span>
+									<em>Dec 01 2019 in {{% for category in page.categories %}}{{category}}
+										{{% endfor %}}</em>
+									<br />
+									<br />
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer egestas lacus
+										dui, at
+										tristique nunc eleifend vitae. Vestibulum ante ipsum primis in faucibus orci
+										luctus et
+										ultrices posuere cubilia Curae; Suspendisse ut justo dignissim, cursus nunc
+										eget, bibendum
+										risus. In sapien enim, feugiat sed enim sit amet, pretium ornare erat.
+										Vestibulum dapibus
+										interdum mi sed dapibus. Sed venenatis egestas eros ut euismod. In ullamcorper a
+										purus non
+										congue. In pharetra ante sodales augue blandit finibus. Etiam quis elit mattis,
+										cursus est
+										eget, hendrerit diam. Nullam faucibus in risus quis aliquam. Morbi consectetur
+										erat sit amet
+										tortor efficitur, sit amet efficitur dolor aliquet. Duis condimentum nisl quis
+										libero
+										posuere, a aliquam nisi aliquet. Orci varius natoque penatibus et magnis dis
+										parturient
+										montes, nascetur ridiculus mus. Pellentesque viverra diam et massa malesuada
+										finibus.
+										Integer nulla elit, mattis vitae tempus ut, sollicitudin quis ante.</p>
+								</div>
 							</div>
-						</div>
+						</section>
+
 					</div>
-				</section>
+				</div>
+			</div>
+		</section>
 
-			<!-- Footer -->
-				<section id="footer">
-					<div class="container">
-						<div class="row">
-							<div class="col-4 col-12-medium">
-								<section>
-									<ul class="social">
-										<li><a class="icon brands fa-facebook-f" href="#"><span class="label">Facebook</span></a></li>
-										<li><a class="icon brands fa-twitter" href="#"><span class="label">Twitter</span></a></li>
-										<li><a class="icon brands fa-dribbble" href="#"><span class="label">Dribbble</span></a></li>
-										<li><a class="icon brands fa-tumblr" href="#"><span class="label">Tumblr</span></a></li>
-										<li><a class="icon brands fa-linkedin-in" href="#"><span class="label">LinkedIn</span></a></li>
-									</ul>
-								</section>
-							</div>
-							<div class="col-12">
+		<!-- Footer -->
+		<!-- start footer include -->
+		{% include footer.html %}
+		<!-- end footer include -->
+	</div>
+</body>
 
-								<!-- Copyright -->
-									<div id="copyright">
-										<ul class="links">
-											<li>&copy; TODO Site Owner. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-										</ul>
-									</div>
-							</div>
-						</div>
-					</div>
-				</section>
-
-		</div>
-
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.dropotron.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-
-	</body>
 </html>
