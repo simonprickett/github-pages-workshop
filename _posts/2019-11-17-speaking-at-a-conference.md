@@ -7,8 +7,25 @@ main_image: blog4.jpg
 author: Me
 categories: [tech, life]
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pellentesque ultricies venenatis. Donec eu feugiat lacus. Praesent sit amet consectetur magna. Aenean eget turpis est. Ut scelerisque, nisl eget faucibus pulvinar, dolor nisl porttitor erat, eget ultricies erat massa eget sem. Quisque malesuada nec lectus vel porttitor. Aliquam erat volutpat. Cras ut nunc vitae enim interdum tempus quis ac magna. Fusce ligula odio, luctus nec lorem eu, tincidunt tristique arcu. Mauris convallis, nisl sed euismod sodales, sapien nulla feugiat sem, eu finibus elit nisl et velit. Donec faucibus leo at lorem luctus, quis auctor orci molestie. Donec sed lorem elit. Ut mauris augue, maximus non libero sed, auctor sagittis urna. Curabitur sed pretium sapien, scelerisque bibendum sapien. Aliquam tincidunt, ipsum non convallis tristique, arcu nisi tincidunt leo, id convallis purus ipsum nec sem. Nulla semper gravida lorem luctus pulvinar.
+## My First Conference Talk!
 
-Fusce sit amet accumsan mi. Vestibulum hendrerit ex vulputate accumsan interdum. Vestibulum ultrices sem tempus ipsum maximus, eu fermentum tellus commodo. Praesent consectetur tortor non suscipit iaculis. Cras euismod, nisl nec sagittis imperdiet, mi orci vehicula sapien, sit amet varius erat erat fringilla libero. Phasellus eu lorem luctus, tempus velit non, mollis nulla. Aenean tortor sem, pulvinar sed dictum id, ultricies ac nunc. Nunc pulvinar mi sed massa mattis, in porttitor turpis interdum. Quisque convallis faucibus nulla, id molestie sem sollicitudin feugiat. Ut sit amet quam ac massa commodo vehicula.
+Lorem ipsum dolor amet affogato **squid master** cleanse small batch. **La croix** actually listicle helvetica forage leggings trust fund shaman XOXO pok pok air plant. Twee kale chips readymade stumptown, sriracha craft beer hexagon. Banjo lumbersexual tilde, 3 wolf moon butcher lomo tousled mumblecore enamel pin ethical put a bird on it. Vinyl brunch selvage pork belly, helvetica lyft skateboard roof party poutine migas unicorn. Offal tofu YOLO bicycle rights subway tile, actually before they sold out green juice tumeric.
 
-Mauris congue posuere nibh dignissim viverra. Sed condimentum felis quis est semper eleifend. Phasellus ac tortor mollis, feugiat diam at, tempus arcu. Nullam pharetra porttitor magna, quis volutpat lorem consectetur id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce enim sapien, faucibus ut varius et, venenatis et enim. Suspendisse sodales nec enim ut consectetur. Nam nulla ipsum, varius eu purus ut, porttitor dictum arcu. Phasellus id consequat dolor.
+Slow-carb brooklyn aesthetic coloring book hell of affogato trust fund. Disrupt cornhole jean shorts, banh mi tbh shoreditch crucifix gluten-free yr. Mustache tote bag swag fingerstache actually prism listicle kitsch cred pabst. Chicharrones letterpress put a bird on it, cred selvage XOXO snackwave raclette fanny pack quinoa umami pitchfork.
+
+## Preparing My Slides
+
+Jean shorts deep v actually kitsch vape iceland heirloom YOLO offal readymade farm-to-table roof party live-edge blue bottle kale chips. 
+
+* Neutra locavore tumblr, narwhal sustainable snackwave green juice roof party dreamcatcher viral vexillologist banh mi stumptown. 
+* Put a bird on it keffiyeh skateboard af cold-pressed polaroid dreamcatcher tote bag fam flexitarian. 
+* Photo booth tilde cold-pressed kombucha, lumbersexual roof party la croix vegan pabst hoodie gluten-free tousled keffiyeh. 
+* Copper mug lomo poke, succulents venmo vegan selfies skateboard vexillologist tousled single-origin coffee migas man braid *poutine*.
+
+## Using a Microphone
+
+Meditation you probably haven't heard of them mixtape, cloud bread ugh pop-up authentic. Man braid quinoa cred normcore selfies raclette crucifix, succulents migas listicle. Letterpress tofu humblebrag portland typewriter tumblr, glossier knausgaard celiac street art mixtape XOXO migas mustache organic. Hot chicken knausgaard snackwave yuccie sartorial +1. 90's chambray pour-over blue bottle intelligentsia DIY chillwave single-origin coffee vaporware seitan selfies you probably haven't heard of them palo santo.
+
+## Huge Success!
+
+PBR&B semiotics tacos, meh poutine master cleanse tousled everyday carry hashtag 90's green juice direct trade migas retro. Austin raclette VHS cray direct trade. Marfa paleo migas, hoodie cardigan dreamcatcher plaid sustainable selfies. Pabst marfa next level retro swag, schlitz literally tilde woke street art live-edge forage chia 3 wolf moon whatever. Activated charcoal disrupt listicle cray organic banjo authentic. La croix hammock marfa tilde, pork belly banh mi four loko YOLO.
