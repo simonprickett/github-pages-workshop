@@ -7,8 +7,23 @@ main_image: blog6.jpg
 author: Me
 categories: [life, travel]
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pellentesque ultricies venenatis. Donec eu feugiat lacus. Praesent sit amet consectetur magna. Aenean eget turpis est. Ut scelerisque, nisl eget faucibus pulvinar, dolor nisl porttitor erat, eget ultricies erat massa eget sem. Quisque malesuada nec lectus vel porttitor. Aliquam erat volutpat. Cras ut nunc vitae enim interdum tempus quis ac magna. Fusce ligula odio, luctus nec lorem eu, tincidunt tristique arcu. Mauris convallis, nisl sed euismod sodales, sapien nulla feugiat sem, eu finibus elit nisl et velit. Donec faucibus leo at lorem luctus, quis auctor orci molestie. Donec sed lorem elit. Ut mauris augue, maximus non libero sed, auctor sagittis urna. Curabitur sed pretium sapien, scelerisque bibendum sapien. Aliquam tincidunt, ipsum non convallis tristique, arcu nisi tincidunt leo, id convallis purus ipsum nec sem. Nulla semper gravida lorem luctus pulvinar.
+**Lorem ipsum** dolor amet hoodie photo booth *craft beer* raw denim mixtape cold-pressed. Kickstarter tattooed tilde pinterest, disrupt marfa prism echo park. Taiyaki slow-carb kitsch typewriter palo santo bicycle rights etsy vinyl godard keffiyeh farm-to-table distillery. Quinoa salvia af, brooklyn +1 woke kogi offal poutine slow-carb iPhone. Actually photo booth craft beer PBR&B art party ramps brunch palo santo sustainable four loko.
 
-Fusce sit amet accumsan mi. Vestibulum hendrerit ex vulputate accumsan interdum. Vestibulum ultrices sem tempus ipsum maximus, eu fermentum tellus commodo. Praesent consectetur tortor non suscipit iaculis. Cras euismod, nisl nec sagittis imperdiet, mi orci vehicula sapien, sit amet varius erat erat fringilla libero. Phasellus eu lorem luctus, tempus velit non, mollis nulla. Aenean tortor sem, pulvinar sed dictum id, ultricies ac nunc. Nunc pulvinar mi sed massa mattis, in porttitor turpis interdum. Quisque convallis faucibus nulla, id molestie sem sollicitudin feugiat. Ut sit amet quam ac massa commodo vehicula.
+## Day One
 
-Mauris congue posuere nibh dignissim viverra. Sed condimentum felis quis est semper eleifend. Phasellus ac tortor mollis, feugiat diam at, tempus arcu. Nullam pharetra porttitor magna, quis volutpat lorem consectetur id. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce enim sapien, faucibus ut varius et, venenatis et enim. Suspendisse sodales nec enim ut consectetur. Nam nulla ipsum, varius eu purus ut, porttitor dictum arcu. Phasellus id consequat dolor.
+* DIY banjo glossier VHS.
+* Disrupt pickled tousled dreamcatcher. 
+* Kickstarter man bun.
+* Portland etsy tumblr tousled.
+
+Taxidermy flannel keytar hammock four dollar toast selfies ugh try-hard semiotics. Chia meh pug chambray, flexitarian chicharrones mustache craft beer keytar vinyl raw denim. Hella aesthetic XOXO yuccie paleo pinterest portland truffaut vaporware. Yuccie truffaut normcore enamel pin narwhal, kinfolk kickstarter scenester occupy gluten-free man braid readymade you probably haven't heard of them skateboard. Put a bird on it butcher austin wolf chambray, fanny pack sriracha tousled normcore hot chicken neutra cloud bread air plant. Venmo farm-to-table pour-over celiac pok pok, health goth ethical woke cornhole blog swag selfies tote bag.
+
+## Day Two
+
+Hammock mustache gochujang chia, flannel enamel pin disrupt lomo. Fanny pack cred actually cronut snackwave try-hard brunch air plant salvia artisan. Tattooed taiyaki sustainable unicorn etsy, gochujang deep v normcore green juice hell of VHS fanny pack shabby chic heirloom flexitarian. Fashion axe readymade cold-pressed, vegan deep v listicle lyft blue bottle art party green juice viral gentrify blog locavore.
+
+Shoreditch polaroid helvetica, humblebrag meggings synth iPhone dreamcatcher. Edison bulb tacos PBR&B ennui kogi tattooed leggings. Fanny pack slow-carb ramps vinyl, mumblecore pinterest succulents next level typewriter austin taxidermy flannel roof party adaptogen humblebrag. Squid blog organic celiac, hoodie church-key mustache austin jean shorts. Activated charcoal bitters neutra man braid bicycle rights PBR&B XOXO cred meh leggings kitsch cardigan cray +1. Jean shorts health goth edison bulb seitan vape meditation. Cornhole you probably haven't heard of them PBR&B, vinyl umami pour-over whatever roof party VHS tofu activated charcoal kitsch thundercats.
+
+## Final Day
+
+Drinking vinegar wolf gastropub master cleanse seitan irony tattooed etsy brunch banjo asymmetrical. Selfies flannel small batch kogi aesthetic pug ramps, tote bag post-ironic ugh mlkshk taxidermy. Taxidermy bitters celiac neutra quinoa single-origin coffee. Gochujang pour-over street art edison bulb, +1 lomo taiyaki polaroid chartreuse. Tumblr tattooed yr messenger bag XOXO, before they sold out seitan letterpress readymade slow-carb fixie jianbing vegan portland four loko. 90's air plant disrupt truffaut four loko master cleanse skateboard vinyl.
