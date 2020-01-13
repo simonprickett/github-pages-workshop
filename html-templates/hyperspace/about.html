@@ -10,25 +10,25 @@
     <title>TODO Site Name</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <link rel="stylesheet" href="assets/css/main.css" />
-    <noscript>
-        <link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css" />
 </head>
 
 <body class="is-preload">
 
     <!-- Header -->
+    <!-- start header include -->
     <header id="header">
-        <a href="homepage.html" class="title">TODO Site Name</a>
+        <a href="{{site.baseurl}}/" class="title">TODO Site Name</a>
         <nav>
             <ul>
-                <li><a href="homepage.html">Home</a></li>
-                <li><a href="blog.html">Blog</a></li>
-                <li><a href="projects.html">Projects</a></li>
-                <li><a href="about.html" class="active">About Me</a></li>
+                <li><a href="{{site.baseurl}}/">Home</a></li>
+                <li><a href="{{site.baseurl}}/blog/">Blog</a></li>
+                <li><a href="{{site.baseurl}}/projects/">Projects</a></li>
+                <li><a href="{{site.baseurl}}/about/">About Me</a></li>
             </ul>
         </nav>
     </header>
+    <!-- end header include -->
 
     <!-- Wrapper -->
     <div id="wrapper">
@@ -67,6 +67,7 @@
     </div>
 
     <!-- Footer -->
+    <!-- start footer include -->
     <footer id="footer" class="wrapper alt">
         <div class="inner">
             <ul class="menu">
@@ -77,14 +78,14 @@
     </footer>
 
     <!-- Scripts -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/jquery.scrollex.min.js"></script>
-    <script src="assets/js/jquery.scrolly.min.js"></script>
-    <script src="assets/js/browser.min.js"></script>
-    <script src="assets/js/breakpoints.min.js"></script>
-    <script src="assets/js/util.js"></script>
-    <script src="assets/js/main.js"></script>
-
+    <script src="{{site.baseurl}}/assets/js/jquery.min.js"></script>
+    <script src="{{site.baseurl}}/assets/js/jquery.scrollex.min.js"></script>
+    <script src="{{site.baseurl}}/assets/js/jquery.scrolly.min.js"></script>
+    <script src="{{site.baseurl}}/assets/js/browser.min.js"></script>
+    <script src="{{site.baseurl}}/assets/js/breakpoints.min.js"></script>
+    <script src="{{site.baseurl}}/assets/js/util.js"></script>
+    <script src="{{site.baseurl}}/assets/js/main.js"></script>
+    <!-- end footer include -->
 </body>
 
 </html>

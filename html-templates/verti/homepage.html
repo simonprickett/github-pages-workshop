@@ -7,32 +7,33 @@
 <html>
 
 <head>
-    <title>TODO Site Name</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <link rel="stylesheet" href="assets/css/main.css" />
+	<!-- start head include -->
+	{% include head.html %}
+	<!-- end head include -->
 </head>
 
 <body class="is-preload homepage">
     <div id="page-wrapper">
         <!-- Header -->
+        <!-- start header include -->
         <div id="header-wrapper">
             <header id="header" class="container">
                 <!-- Logo -->
                 <div id="logo">
-                    <h1><a href="homepage.html">TODO Site Name</a></h1>
+                    <h1><a href="{{site.baseurl}}/">TODO Site Name</a></h1>
                 </div>
                 <!-- Nav -->
                 <nav id="nav">
                     <ul>
-                        <li class="current"><a href="homepage.html">Home</a></li>
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="projects.html">Projects</a></li>
-                        <li><a href="about.html">About Me</a></li>
+                        <li><a href="{{site.baseurl}}/">Home</a></li>
+                        <li><a href="{{site.baseurl}}/blog/">Blog</a></li>
+                        <li><a href="{{site.baseurl}}/projects/">Projects</a></li>
+                        <li><a href="{{site.baseurl}}/about/">About Me</a></li>
                     </ul>
                 </nav>
             </header>
         </div>
+        <!-- end header include -->
 
         <!-- Features -->
         <div id="features-wrapper">
@@ -59,6 +60,7 @@
         </div>
 
         <!-- Footer -->
+        <!-- start footer include -->
         <div id="footer-wrapper">
             <footer id="footer" class="container">
                 <div class="row">
@@ -92,14 +94,15 @@
                 </div>
             </footer>
         </div>
+        <!-- Scripts -->
+        <script src="{{site.baseurl}}/assets/js/jquery.min.js"></script>
+        <script src="{{site.baseurl}}/assets/js/jquery.dropotron.min.js"></script>
+        <script src="{{site.baseurl}}/assets/js/browser.min.js"></script>
+        <script src="{{site.baseurl}}/assets/js/breakpoints.min.js"></script>
+        <script src="{{site.baseurl}}/assets/js/util.js"></script>
+        <script src="{{site.baseurl}}/assets/js/main.js"></script>
+        <!-- end footer include -->
     </div>
-    <!-- Scripts -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/jquery.dropotron.min.js"></script>
-    <script src="assets/js/browser.min.js"></script>
-    <script src="assets/js/breakpoints.min.js"></script>
-    <script src="assets/js/util.js"></script>
-    <script src="assets/js/main.js"></script>
 </body>
 
 </html>
