@@ -7,32 +7,17 @@
 <html>
 
 <head>
-    <title>TODO Site Name</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-    <link rel="stylesheet" href="assets/css/main.css" />
+	<!-- start head include -->
+	{% include head.html %}
+	<!-- end head include -->
 </head>
 
 <body class="is-preload homepage">
     <div id="page-wrapper">
         <!-- Header -->
-        <div id="header-wrapper">
-            <header id="header" class="container">
-                <!-- Logo -->
-                <div id="logo">
-                    <h1><a href="homepage.html">TODO Site Name</a></h1>
-                </div>
-                <!-- Nav -->
-                <nav id="nav">
-                    <ul>
-                        <li><a href="homepage.html">Home</a></li>
-                        <li class="current"><a href="blog.html">Blog</a></li>
-                        <li><a href="projects.html">Projects</a></li>
-                        <li><a href="about.html">About Me</a></li>
-                    </ul>
-                </nav>
-            </header>
-        </div>
+		<!-- start header include -->
+		{% include header.html %}
+		<!-- end header include -->
 
         <!-- Features -->
         <div id="features-wrapper">
@@ -61,47 +46,10 @@
         </div>
 
         <!-- Footer -->
-        <div id="footer-wrapper">
-            <footer id="footer" class="container">
-                <div class="row">
-                    <div class="col-3 col-6-medium col-12-small">
-                        <!-- Contact -->
-                        <section class="widget contact last">
-                            <ul>
-                                <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a>
-                                </li>
-                                <li><a href="#" class="icon brands fa-facebook-f"><span
-                                            class="label">Facebook</span></a></li>
-                                <li><a href="#" class="icon brands fa-instagram"><span
-                                            class="label">Instagram</span></a></li>
-                                <li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a>
-                                </li>
-                                <li><a href="#" class="icon brands fa-pinterest"><span
-                                            class="label">Pinterest</span></a></li>
-                            </ul>
-                        </section>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-12">
-                        <div id="copyright">
-                            <ul class="menu">
-                                <li>&copy; TODO Site Owner. All rights reserved</li>
-                                <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </footer>
-        </div>
+        <!-- start footer include -->
+		{% include footer.html %}
+		<!-- end footer include -->
     </div>
-    <!-- Scripts -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/jquery.dropotron.min.js"></script>
-    <script src="assets/js/browser.min.js"></script>
-    <script src="assets/js/breakpoints.min.js"></script>
-    <script src="assets/js/util.js"></script>
-    <script src="assets/js/main.js"></script>
 </body>
 
 </html>
