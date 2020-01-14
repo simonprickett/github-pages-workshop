@@ -3,7 +3,7 @@ layout: blogpost
 title: Another blog post
 subtitle: Blogging about all the things.
 date: 2019-12-01 12:15:10 -0800
-main_image: blog2.jpg
+main_image: /assets/images/blog2.jpg
 author: Me
 categories: [life, iot, food]
 ---

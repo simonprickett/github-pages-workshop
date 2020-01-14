@@ -10,7 +10,7 @@
         <p>{% for category in page.categories %}{{category}} {% endfor %}</p>
         <p>{{page.title}}</p>
         <p>{{page.subtitle}}</p>
-        <img src="{{site.baseurl}}/assets/images/{{page.main_image}}" alt="Project Image"/>
+        <img src="{{site.baseurl}}{{page.main_image}}" alt="Project Image"/>
         {{content}}
     </body>
 </html>
