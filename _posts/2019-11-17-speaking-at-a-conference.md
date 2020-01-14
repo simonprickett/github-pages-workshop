@@ -3,7 +3,7 @@ layout: blogpost
 title: Tech Conference Speaking!
 subtitle: First time nerves on the big stage.
 date: 2019-11-30 20:45:23 -0800
-main_image: blog4.jpg
+main_image: /assets/images/blog4.jpg
 author: Me
 categories: [tech, life]
 ---

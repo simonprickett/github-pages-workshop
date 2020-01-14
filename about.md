@@ -1,7 +1,7 @@
 ---
 layout: about
 title: All About Me
-main_image: me.jpg
+main_image: /assets/images/me.jpg
 permalink: /about/
 ---
 This page is all about me and would contain bio information, maybe a resume and some details about my hobbies...

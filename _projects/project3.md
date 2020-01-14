@@ -2,7 +2,7 @@
 layout: project
 title: Project 3
 subtitle: A hardware & microcontroller project.
-main_image: project3.jpg
+main_image: /assets/images/project3.jpg
 categories: [arduino, c, iot]
 ---
 Project 3 saw me working with microcontrollers and a soldering iron!

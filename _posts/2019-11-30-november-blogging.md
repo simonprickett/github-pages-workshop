@@ -3,7 +3,7 @@ layout: blogpost
 title: Blogging in November
 subtitle: Thanksgiving and stuff.
 date: 2019-11-30 20:45:23 -0800
-main_image: blog3.jpg
+main_image: /assets/images/blog3.jpg
 author: Me
 categories: [life, food]
 ---
